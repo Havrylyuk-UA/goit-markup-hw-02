@@ -134,7 +134,7 @@ h3 {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
-    line-height: 1.07;
+    line-height: 1.5;
     color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
@@ -193,11 +193,10 @@ h3 {
 }
 
 .team-photo {
-    background-color: #FFFFFF;
-
 }
 
 .team-name {
+    background-color: #FFFFFF;
     font-weight: 500;
     color: #2e2f42;
 }
