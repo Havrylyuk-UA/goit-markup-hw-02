@@ -65,7 +65,7 @@ h3 {
 }
 
 .logo-footer {
-    font-family: 'Raleway';
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -73,6 +73,10 @@ h3 {
     letter-spacing: 0.54px;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+
+.span-footer {
+    color: #f4f4fd;
 }
 
 .nav-link>li>a {
@@ -116,9 +120,12 @@ h3 {
     background-color: #2E2F42;
 }
 
+.order-btn {
+    line-height: 1.07
+}
 
 .order-btn {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -133,7 +140,20 @@ h3 {
     background-color: #404BBF;
 }
 
+.order-btn:focus {
+    background-color: #404BBF;
+}
+
 .section-feature {}
+
+.feature-title {
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.feature-desc {
+    letter-spacing: 0.02em;
+}
 
 .our-feature {}
 
