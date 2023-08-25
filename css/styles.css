@@ -152,6 +152,7 @@ h3 {
 .feature-title {
     font-weight: 500;
     color: #2e2f42;
+    line-height: 1.07;
 }
 
 .feature-desc {
@@ -181,11 +182,44 @@ h3 {
     letter-spacing: 0.32px;
 }
 
-.team {}
+.team-title {
+    line-height: 1.11;
+    color: #2e2f42;
+}
+
+.team {
+    background-color: #FFFFFF;
+}
+
+.team-name {
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.team-desc {
+    font-size: 16px;
+     line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
 .section-portfolio {}
 
 .portfolio {}
+
+.portfolio-title {
+    line-height: 1.11;
+    color: #2e2f42;
+}
+
+.portfolio-product {
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+.portfolio-desc {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
 .footer {
     background-color: #2E2F42;
