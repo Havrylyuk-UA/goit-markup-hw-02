@@ -63,7 +63,10 @@ h3 {
     color: #4D5AE5;
 }
 
-.nav-link {}
+.nav-link > li {
+    text-decoration: none;
+    color: #2E2F42;
+}
 
 .nav-link > li > a:hover {
     color: #404BBF;
