@@ -88,6 +88,7 @@ h3 {
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 500;
 }
 
 .nav-link-item:hover {
@@ -101,12 +102,13 @@ h3 {
     outline: none;
 }
 
-.nav-address {}
+.nav-address {
+    font-style: normal;
+}
 
 .nav-address>li>a {
     color: #434455;
     text-decoration: none;
-    font-style: normal;
 }
 
 .nav-address > li > a:hover {
@@ -115,6 +117,11 @@ h3 {
 
 .nav-address>li>a:focus {
     color: #404BBF;
+}
+
+.nav-mail {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .main {}
@@ -190,11 +197,14 @@ h3 {
 }
 
 .team {
-    background-color: #FFFFFF;
 }
 
 .team-photo {
     /* background-color: #FFFFFF; */
+}
+
+.first-item {
+    background-color: #FFFFFF;
 }
 
 .team-name {
