@@ -190,13 +190,15 @@ h3 {
 }
 
 .team {
+    background-color: #FFFFFF;
 }
 
 .team-photo {
+    /* background-color: #FFFFFF; */
 }
 
 .team-name {
-    background-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
     font-weight: 500;
     color: #2e2f42;
 }
