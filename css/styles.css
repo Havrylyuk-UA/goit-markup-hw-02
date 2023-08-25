@@ -1,0 +1,163 @@
+body {
+    color: #2E2F42;
+    background-color: #ffffff;
+    font-family: 'Roboto' sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: medium;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    text-align: center;
+}
+
+.header {}
+
+.navigate {}
+
+.logo-header {
+    font-family: 'Raleway';
+    text-transform: uppercase;
+}
+
+.logo-footer {
+    font-family: 'Raleway';
+    color: #F4F4FD;
+    text-transform: uppercase;
+}
+
+.text-blue {
+    color: #4D5AE5;
+}
+
+.nav-link {}
+
+.nav-link > li > a:hover {
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.nav-link>li>a:focus {
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.nav-adress {}
+
+.nav-adress>li>a {
+    color: #434455;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.nav-adress > li > a:hover {
+    color: #404BBF;
+}
+
+.nav-adress>li>a:focus {
+    color: #404BBF;
+}
+
+.main {}
+
+.section-order {
+    background-color: #2E2F42;
+}
+
+
+.order-btn {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    width: 169px;
+    height: 56px;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.order-btn:hover {
+    background-color: #404BBF;
+}
+
+.section-feature {}
+
+.our-feature {}
+
+.our-feature > li {
+    font-family: 'Roboto';
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.section-team {
+    background-color: #F4F4FD;
+}
+
+.section-team > p {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.team {}
+
+.section-portfolio {}
+
+.portfolio {}
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer > p {
+    color: #F4F4FD;
+font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
+}
