@@ -101,19 +101,19 @@ h3 {
     outline: none;
 }
 
-.nav-adress {}
+.nav-address {}
 
-.nav-adress>li>a {
+.nav-address>li>a {
     color: #434455;
     text-decoration: none;
     font-style: normal;
 }
 
-.nav-adress > li > a:hover {
+.nav-address > li > a:hover {
     color: #404BBF;
 }
 
-.nav-adress>li>a:focus {
+.nav-address>li>a:focus {
     color: #404BBF;
 }
 
@@ -123,7 +123,7 @@ h3 {
     background-color: #2E2F42;
 }
 
-.order-btn {
+.order-title {
     line-height: 1.07
 }
 
@@ -134,6 +134,7 @@ h3 {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
+    line-height: 1.07;
     color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
@@ -147,12 +148,13 @@ h3 {
     background-color: #404BBF;
 }
 
+
 .section-feature {}
 
 .feature-title {
     font-weight: 500;
     color: #2e2f42;
-    line-height: 1.07;
+    line-height: 1.2
 }
 
 .feature-desc {
@@ -188,7 +190,11 @@ h3 {
 }
 
 .team {
+}
+
+.team-photo {
     background-color: #FFFFFF;
+
 }
 
 .team-name {
