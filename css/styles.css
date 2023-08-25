@@ -46,11 +46,16 @@ h3 {
 
 .header {}
 
-.navigate {}
+.navigate {
+
+}
 
 .logo-header {
     font-family: 'Raleway';
     text-transform: uppercase;
+        color: #434455;
+            text-decoration: none;
+            font-style: normal;
 }
 
 .logo-footer {
@@ -63,9 +68,10 @@ h3 {
     color: #4D5AE5;
 }
 
-.nav-link > li {
+.nav-link > li > a {
+    color: #434455;
     text-decoration: none;
-    color: #2E2F42;
+    font-style: normal;
 }
 
 .nav-link > li > a:hover {
