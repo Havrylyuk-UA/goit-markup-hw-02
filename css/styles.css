@@ -79,20 +79,23 @@ h3 {
     color: #f4f4fd;
 }
 
-.nav-link>li>a {
-    color: #2E2F42;
+.nav-link-item {
+    color: #2e2f42;
+}
+
+.nav-link-item {
     text-decoration: none;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.nav-link>li>a:hover {
+.nav-link-item:hover {
     color: #404BBF;
     text-decoration: underline;
 }
 
-.nav-link>li>a:focus {
+.nav-link-item:focus {
     color: #404BBF;
     text-decoration: underline;
     outline: none;
