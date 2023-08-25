@@ -162,8 +162,12 @@ h3 {
     letter-spacing: 2%;
 }
 
-.team-list {
+.section-team {
     background-color: #F4F4FD;
+}
+
+.team-list {
+    background-color: #FFFFFF;
 }
 
 .section-team > p {
