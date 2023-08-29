@@ -50,9 +50,9 @@ ul {
     list-style: none;
 }
 
-.header {}
+/* .header {} */
 
-.navigate {}
+/* .navigate {} */
 
 .logo-header {
     font-family: 'Raleway', sans-serif;
@@ -103,13 +103,13 @@ ul {
     color: var(--shadowblue, #404BBF);
 }
 
-.main {}
+/* .main {} */
 
 .section-order {
     background: var(--darkgrey, #2E2F42);
 }
 
-.order-title {}
+/* .order-title {} */
 
 .order-btn {
     background: var(--blue, #4D5AE5);
@@ -129,9 +129,9 @@ ul {
     background: var(--white, #FFF);
 }
 
-.our-feature {}
+/* .our-feature {} */
 
-.feature-title {}
+/* .feature-title {} */
 
 .feature-desc {
     color: var(--grey, #434455);
@@ -146,19 +146,17 @@ ul {
     background: var(--shadowwhite, #F4F4FD);
 }
 
-.team-title {}
+/* .team-title {} */
 
-.team {
-    
-}
+/* .team {} */
 
 .team-list {
     background: var(--white, #FFF);
 }
 
-.team-photo {}
+/* .team-photo {} */
 
-.team-name {}
+/* .team-name {} */
 
 .team-desc {
     color: var(--grey, #434455);
@@ -169,13 +167,13 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.section-portfolio {}
+/* .section-portfolio {} */
 
-.portfolio-title {}
+/* .portfolio-title {} */
 
-.portfolio {}
+/* .portfolio {} */
 
-.portfolio-product {}
+/* .portfolio-product {} */
 
 .portfolio-desc {
     color: var(--grey, #434455);
