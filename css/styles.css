@@ -135,6 +135,10 @@ ul {
     background: #404BBF;
 }
 
+.order-btn:focus {
+    background: #404BBF;
+}
+
 .section-feature {
     background: var(--white, #FFF);
 }
@@ -159,7 +163,7 @@ ul {
 }
 
 .team-title {
-    line-height: 1.2;
+    line-height: 1.11;
 }
 
 /* .team {} */
@@ -170,7 +174,9 @@ ul {
 
 /* .team-photo {} */
 
-/* .team-name {} */
+.team-name {
+    line-height: 1.2;
+}
 
 .team-desc {
     color: var(--grey, #434455);
@@ -184,12 +190,14 @@ ul {
 /* .section-portfolio {} */
 
 .portfolio-title {
-    line-height: 1.2;
+    line-height: 1.11;
 }
 
 /* .portfolio {} */
 
-/* .portfolio-product {} */
+.portfolio-product {
+    line-height: 1.2;
+}
 
 .portfolio-desc {
     color: var(--grey, #434455);
